@@ -98,6 +98,8 @@ The model achieved the following performance metrics:
 - **RMSE**: XX.XX
 - **MAE**: XX.XX
 
+This value might changes with your model selection and feature scaling.
+
 You can visualize the performance by running:
 ```bash
 python plot_results.py
